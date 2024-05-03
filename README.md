@@ -1,6 +1,6 @@
-MusicPack_FMD, 500
-MusicPack_JennifersBody, 500
-HappyPickaxe, 200
+CID_634_Athena_Commando_F_GalileoRocket_ARVEH, 1450
+CID_760_Athena_Commando_F_NeonTightSuit, 1450
+Pickaxe_ID_328_GalileoRocket_SNC0L, 1200
 na
 na
 na
